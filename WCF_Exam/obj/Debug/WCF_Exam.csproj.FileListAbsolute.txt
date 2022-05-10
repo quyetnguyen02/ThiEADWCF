@@ -1,0 +1,14 @@
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\WCF_Exam.dll.config
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\WCF_Exam.dll
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\WCF_Exam.pdb
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\EntityFramework.dll
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\EntityFramework.SqlServer.dll
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\EntityFramework.xml
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\bin\EntityFramework.SqlServer.xml
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.csproj.AssemblyReference.cache
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.csproj.CoreCompileInputs.cache
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.csproj.CopyComplete
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.dll
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.pdb
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.Migrations.Inittable.resources
+E:\CSharp\FPT\WCF_Exam\WCF_Exam\obj\Debug\WCF_Exam.csproj.GenerateResource.cache
